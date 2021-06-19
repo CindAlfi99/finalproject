@@ -1,0 +1,4 @@
+.notification-container {
+    max-height: 150px;
+    overflow-y: auto !important;
+}
